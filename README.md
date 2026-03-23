@@ -1,5 +1,39 @@
-💫 About Me:
-Hi 👋, I'm Adrija Adhikary<br><br>## 👩‍💻 About Me<br>- 🎓 Final-year Computer Science student  <br>- 💡 Passionate about AI/ML, Blockchain, and Secure Systems  <br>- 🚀 Focused on building scalable, real-world applications  <br>- 📍 Bengaluru, India  <br><br>---<br><br>## 🚀 What I'm Doing<br>- 🔭 Working on Blockchain-based secure systems & AI/ML projects  <br>- 🤝 Looking to collaborate on Open Source & real-world applications  <br>- 🌱 Currently learning DSA, System Design, and AWS  <br>- 💬 Ask me about Python, Java, Machine Learning, APIs  <br><br>---<br><br>## 💻 Most Used Languages<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>---<br><br>## 🛠️ Tech Stack<br>Python | Java | C | SQL  <br>TensorFlow | Scikit-learn | NumPy | Pandas  <br>Ethereum | Solidity | IPFS  <br>HTML | CSS | REST APIs  <br>AWS | Git | GitHub  <br><br>---<br><br>## 📌 Projects<br>- 🔐 **Decentralized File Sharing System**  <br>  Blockchain + IPFS + AES-256 Encryption  <br><br>- 📲 **Secure QR-Based File Transfer**  <br>  Offline encrypted file sharing using AES & QR  <br><br>- 🧠 **Gastric Cancer Detection (CNN)**  <br>  Achieved 92% accuracy using VGG16  <br><br>---<br><br>## 🏆 Achievements<br>- 🥇 Best Paper Presenter — IEEE SSITCON-2025  <br>- 📄 Multiple research publications  <br><br>---<br><br>## 📜 Certifications<br>- AWS Cloud Foundations  <br>- Introduction to Machine Learning  <br>- SQL Programming  <br><br>---<br><br>## 📊 GitHub Stats<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohor35&show_icons=true&theme=tokyonight)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohor35&layout=compact&theme=tokyonight)<br><br>---<br><br>## 📫 Connect with Me<br>- 📧 Email: adrijaadhikary350@gmail.com  <br>- 💼 LinkedIn: http://www.linkedin.com/in/adrija-adhikary-37297531b<br>- 💻 GitHub: https://github.com/Mohor35<br><br>---<br><br>## ⚡ Fun Fact<br>I love building secure + intelligent systems that solve real-world problems 🚀
+Hi 👋, I'm Adrija Adhikary
+
+### 👩‍💻 About Me
+- 🎓 Final-year Computer Science student  
+- 💡 Passionate about AI/ML, Blockchain & Secure Systems  
+- 🚀 Focused on building real-world applications  
+- 📍 Bengaluru, India  
+
+### 🚀 What I'm Doing
+- 🔭 Working on AI/ML & Blockchain projects  
+- 🌱 Learning DSA, System Design, AWS  
+- 💬 Ask me about Python, Java, Machine Learning  
+
+### 💻 Tech Stack
+Python • Java • C • SQL  
+TensorFlow • Scikit-learn • Pandas  
+Ethereum • Solidity • IPFS  
+HTML • CSS • REST APIs  
+AWS • Git • GitHub  
+
+### 📌 Projects
+- 🔐 Decentralized File Sharing System (Blockchain + IPFS)  
+- 📲 Secure QR-Based File Transfer  
+- 🧠 Gastric Cancer Detection (CNN)  
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohor35&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohor35&layout=compact&theme=tokyonight)
+
+### 📫 Connect
+- 📧 adrijaadhikary350@gmail.com  
+- 🔗 https://linkedin.com/in/adrija-adhikary-37297531b  
+- 💻 https://github.com/Mohor35  
+
+### ⚡ Fun Fact
+I love building secure + intelligent systems 🚀
 
 
 ## 🌐 Socials:
