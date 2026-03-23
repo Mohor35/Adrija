@@ -1,8 +1,3 @@
-<h2 align="center">Hi 👋, I'm Adrija Adhikary</h2>
-<p align="center">Final Year CSE Student | AI/ML | Blockchain</p>
-
----
-
 ## 🎯 WHO AM I?
 
 <table>
@@ -10,14 +5,14 @@
 <td width="60%">
 
 - 🎓 Final-year Computer Science student  
-- 💡 Passionate about AI/ML, Blockchain & Secure Systems  
-- 🚀 Building real-world scalable applications  
+- 💡 Interested in **Software Development, AI/ML, and scalable systems**  
+- 🚀 Focused on building efficient and real-world applications  
 - 📍 Bengaluru, India  
 
-### 🚀 Currently Working On
-- 🔭 AI/ML & Blockchain Projects  
-- 🌱 Learning DSA, System Design, AWS  
-- 💬 Ask me about Python, Java, APIs  
+### 🚀 What I'm Doing
+- 🔭 Working on projects in **AI/ML and Software Development**  
+- 🌱 Learning **Data Structures & Algorithms, System Design, and Cloud (AWS)**  
+- 💬 Comfortable with **Python, Java, SQL, and problem solving**  
 
 </td>
 
@@ -25,7 +20,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </td>
 </tr>
-</table>
+</table>>
 
 ---
 
