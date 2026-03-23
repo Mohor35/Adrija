@@ -1,38 +1,80 @@
-Hi 👋, I'm Adrija Adhikary
+<h2 align="center">Hi 👋, I'm Adrija Adhikary</h2>
+<p align="center">Final Year CSE Student | AI/ML | Blockchain</p>
 
-### 👩‍💻 About Me
+---
+
+## 🎯 WHO AM I?
+
+<table>
+<tr>
+<td width="60%">
+
 - 🎓 Final-year Computer Science student  
 - 💡 Passionate about AI/ML, Blockchain & Secure Systems  
-- 🚀 Focused on building real-world applications  
+- 🚀 Building real-world scalable applications  
 - 📍 Bengaluru, India  
 
-### 🚀 What I'm Doing
-- 🔭 Working on AI/ML & Blockchain projects  
+### 🚀 Currently Working On
+- 🔭 AI/ML & Blockchain Projects  
 - 🌱 Learning DSA, System Design, AWS  
-- 💬 Ask me about Python, Java, Machine Learning  
+- 💬 Ask me about Python, Java, APIs  
 
-### 💻 Tech Stack
-Python • Java • C • SQL  
-TensorFlow • Scikit-learn • Pandas  
-Ethereum • Solidity • IPFS  
-HTML • CSS • REST APIs  
-AWS • Git • GitHub  
+</td>
 
-### 📌 Projects
-- 🔐 Decentralized File Sharing System (Blockchain + IPFS)  
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ MY TOOLBOX
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### ⚙️ Technologies
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohor35&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohor35&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 PROJECTS
+
+- 🔐 Decentralized File Sharing System  
 - 📲 Secure QR-Based File Transfer  
 - 🧠 Gastric Cancer Detection (CNN)  
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohor35&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohor35&layout=compact&theme=tokyonight)
+---
 
-### 📫 Connect
-- 📧 adrijaadhikary350@gmail.com  
-- 🔗 https://linkedin.com/in/adrija-adhikary-37297531b  
-- 💻 https://github.com/Mohor35  
+## 📫 LET'S CONNECT
 
-### ⚡ Fun Fact
+<p align="center">
+<a href="https://linkedin.com/in/adrija-adhikary-37297531b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adrijaadhikary350@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## ⚡ FUN FACT
 I love building secure + intelligent systems 🚀
 
 
