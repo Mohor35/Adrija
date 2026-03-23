@@ -1,3 +1,8 @@
+<h2 align="center">Hi 👋, I'm Adrija Adhikary</h2>
+<p align="center">Final Year CSE Student | AI/ML | Software Development/p>
+
+---
+
 ## 🎯 WHO AM I?
 
 <table>
