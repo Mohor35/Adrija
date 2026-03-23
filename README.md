@@ -31,10 +31,16 @@
 
 ## 🛠️ MY TOOLBOX
 
-### 💻 Programming
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms (DSA)  
+- Operating Systems (OS)  
+- Computer Networks (CN)  
+- Software Development Life Cycle (SDLC)  
 
 ### ⚙️ Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
