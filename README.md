@@ -118,4 +118,21 @@ I aim to begin my career as a Software Engineer, building impactful and scalable
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohor35&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/adrija-adhikary-37297531b">
+<img src="https://img.shields.io/badge/LinkedIn-Adrija%20Adhikary-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adrijaadhikary350@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+💼 Open to diverse technical roles in Software Development, AI/ML, and related domains
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
