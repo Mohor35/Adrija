@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Adrija Adhikary</h2>
-<p align="center">Final Year CSE Student | AI/ML | Software Development/<p>
+<p align="center">Final Year CSE Student | AI/ML | Software Development<p>
 
 ---
 
@@ -21,11 +21,13 @@
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+<td width="40%" align="center" valign="top">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJud29vaWtkb3FlNm51bHN0MmVmMG1teTVzcms3ZG1qcHEzY2h6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+       width="350"
+       style="border-radius:14px;">
 </td>
 </tr>
-</table>>
+</table>
 
 ---
 
