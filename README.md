@@ -22,7 +22,7 @@
 </td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
 </td>
 </tr>
 </table>>
