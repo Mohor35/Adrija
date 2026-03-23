@@ -28,7 +28,16 @@
 </td>
 </tr>
 </table>
+</table>
 
+---
+
+## ⚡ Fun Facts
+
+- 🎤 I enjoy singing and expressing creativity through music  
+- 🏸 I play badminton and enjoy staying active  
+- 📚 I’m always curious and love exploring new technologies  
+- 🚀 Actively preparing to start my career in the tech industry  
 ---
 
 ## 🛠️ MY TOOLBOX
