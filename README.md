@@ -91,8 +91,9 @@
 
 ---
 
-## ⚡ FUN FACT
-I love building secure + intelligent systems 🚀
+## 🚀 Career Objective
+
+I aim to begin my career as a Software Engineer, building impactful and scalable applications while continuously learning and growing in the tech industry.
 
 
 ## 🌐 Socials:
